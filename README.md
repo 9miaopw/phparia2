@@ -4,3 +4,5 @@ php+aria2实现下载m3u8
 
 
 实现的功能php +aria2下载m3u8文件。
+
+使用方法：https://yourname/index.php
