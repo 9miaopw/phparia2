@@ -11,7 +11,7 @@ $str="https://vod.lyhuicheng.com/20241122/au5jls4w/index.m3u8";//本地m3u8
 
 
 
-$namedata="1";//是否开启调试模式   1 为取消调试模式，非1为开启调试模式
+$namedata="0";//是否开启调试模式   1 为取消调试模式，非1为开启调试模式
 
 $urldir='';//补全ts文件url连接，不允许存在特殊字符串，可留空
 $dir ='91porn/';//ts文件分一个目录
