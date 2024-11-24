@@ -33,7 +33,7 @@ $md5 =md5($str);
 
 
  
-  $tsdir1= "/www/wwwroot/v2202109156611163671.nicesrv.de/aria2/nfs/".$Y."/".$m."/".$d."/".$md5;//m3u8文件储存地址
+  $tsdir1= "/www/wwwroot/yourname/aria2/nfs/".$Y."/".$m."/".$d."/".$md5;//m3u8文件储存地址
 
 //判断    没有镶嵌m3u8执行此处
 if (!$url3) {
